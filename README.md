@@ -27,13 +27,18 @@ Spring Boot를 활용한 게시판 제작
 ## 스크린샷
 - **로그인 화면**
 <img src="src/main/resources/static/images/로그인.png" alt="로그인 화면" width="500">
-메인 화면
-<img src="src/main/resources/static/images/main.png" alt="메인 화면" width="500">
-상품 목록
-<img src="src/main/resources/static/images/product_list.png" alt="상품 목록" width="500">
-상품 등록
-<img src="src/main/resources/static/images/product_register.png" alt="상품 등록" width="500">
-장바구니
-<img src="src/main/resources/static/images/cart.png" alt="장바구니" width="500">
+
+- **회원가입**
+<img src="src/main/resources/static/images/회원가입.png" alt="회원가입" width="500">
+
+- **게시판 목록**
+<img src="src/main/resources/static/images/목록.png" alt="게시판 목록" width="500">
+
+- **질문 등록**
+<img src="src/main/resources/static/images/질문등록.png" alt="질문 등록" width="500">
+
+- **답변**
+<img src="src/main/resources/static/images/답변.png" alt="답변" width="500">
+
 문의
 프로젝트에 대해 궁금한 점이나 문제가 있으면 다음 이메일로 문의해 주세요: [djarlen1@enaver.com]
