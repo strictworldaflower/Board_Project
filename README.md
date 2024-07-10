@@ -40,5 +40,3 @@ Spring Boot를 활용한 게시판 제작
 - **답변**
 <img src="src/main/resources/static/images/답변.png" alt="답변" width="500">
 
-문의
-프로젝트에 대해 궁금한 점이나 문제가 있으면 다음 이메일로 문의해 주세요: [djarlen1@enaver.com]
